@@ -1,7 +1,6 @@
 # README
-## API para mostrar productos de una tienda Online                 
-Api para mostrar posts.               
-
+## API para mostrar posts                 
+              
 ## Routes / Urls:                         
  - Se muestran todos los posts:                     
 | GET | http://server_name/api/v1/posts                   
